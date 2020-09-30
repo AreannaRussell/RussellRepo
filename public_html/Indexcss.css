@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 30px; 
+  background: rgb(0, 8, 42);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 8, 42, 1) 5%,
+    rgba(110, 0, 74, 1) 40%,
+    rgba(180, 58, 151, 1) 58%,
+    rgba(167, 196, 252, 1) 100%  ); 
+  font-family: sans-serif; 
+}
+
+h1,
+h2,
+h3,
+
+h4 {
+  background: rgb(255, 104, 16);
+  background: linear-gradient(
+    0deg,
+    rgba(255, 104, 16, 1) 0%,
+    rgba(255, 191, 26, 1) 100%
+  );
+}
+section {
+  padding: 15px;
+  background: #cab3d6;
+}
